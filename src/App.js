@@ -4,7 +4,7 @@ import React, {useState} from 'react';
 
 function App() {
   const [isPet, setIsPet] = useState(false);
-  const []
+  // const []
   return (
     <div className="App">
       <header className="App-header">
